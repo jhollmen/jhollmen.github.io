@@ -1,0 +1,44 @@
+body {
+  margin: 30px 10% 30px 8%;
+  background-color: white;
+  font-family: Georgia, Palatino, "Times New Roman", Times, serif;
+  font-size: 1.2em;
+  line-height: 1.3em;	
+}
+h1 {
+  text-align: left;
+  font-weight: bold;
+  font-size: 1.6em;
+  line-height: 1.3em;	
+  color: maroon;
+}
+h2 {
+  text-align: left
+  font-weight: bold;
+  font-size: 1.4em;
+}
+h3 {
+  text-align: left;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.2em;
+  line-height: 1.3;
+}
+ul li {
+  list-style: circle;
+  font-size: 1.1em;
+  line-height: 1.3em;
+}
+a {
+color:navy;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: navy;
+}
+a:hover {
+  background-color:silver;
+  text-decoration:none;
+}
